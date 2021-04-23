@@ -1,0 +1,71 @@
+
+.logo{
+   
+    margin-right: 60px;
+    width: 50px;
+    height: 50px;
+}
+.Title1{
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-top:20px;
+}
+.Title1:hover{
+    color: palevioletred;
+}
+.Title2:hover{
+    color: palevioletred;
+}
+
+.Title2{
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+      margin-top:20px;
+    
+}
+
+.Product-details{
+    margin-top:70px;
+}
+.Plable{
+    margin-left: 120px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.Pinput{
+    margin-left: 120px;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 40px;
+}
+.Ptextarea{
+    margin-left: 120px;
+}
+.Addbutton{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.Pimageinput{
+    margin-left: 120px;
+    height: 40px;
+    width:300px;
+}
+.imagebutton{
+    height: 41px;
+    margin-left: 0px;
+    width: 100px;
+    border-radius: 0%;
+}
+.optional{
+    font-size: 15px;
+    color: gray;
+}
+.table{
+    margin: 50px 10px;
+}

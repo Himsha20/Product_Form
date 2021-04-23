@@ -1,0 +1,35 @@
+.logo{
+   
+    margin-right: 60px;
+    width: 50px;
+    height: 50px;
+}
+.Title1{
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-top:20px;
+  
+}
+.Title1:hover{
+    color: palevioletred;
+}
+.Title2:hover{
+    color: palevioletred;
+}
+
+.Title2{
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+      margin-top:20px;
+    
+}
+.navdrop{
+    color: black;
+    /* background-color: black; */
+
+}
